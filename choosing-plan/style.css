@@ -1,0 +1,49 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.overlay {
+  background-color: rgb(245, 245, 245);
+  padding: 1rem 0 4rem 0;
+
+}
+
+.component {
+  display: flex;
+  margin: 2rem 8rem;
+}
+.free {
+  background-color: white;
+  padding: .6rem 1.4rem;
+  width: 300px;
+  border-radius: .7rem;
+  margin-right: 1rem;
+}
+.pro {
+  background-color: rgb(4, 16, 32);
+  color: white;
+  padding: 0.6rem 1.4rem;
+  width: 300px;
+  border-radius: .7rem;
+}
+
+button {
+  width: 94%;
+  padding: .4rem;
+  border-radius: 1rem;
+  border: none;
+  font-size: 1.2rem;
+  margin: 0 auto;
+}
+
+.info {
+  margin:  3rem 0;
+}
+.free button{
+ background-color: black;
+ color: white;
+ margin-top:  5rem
+}
+
+.far, .fas {
+  margin-right: .6rem;
+}
